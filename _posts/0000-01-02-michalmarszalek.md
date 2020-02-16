@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+__**To jest slajd Misia**__
 Use the left arrow to go back!
